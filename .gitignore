@@ -1,17 +1,41 @@
-# 大影音檔(不進 git)
+# Only code lives in this repo — everything else is excluded.
+
+# Documents / papers / slides
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+*.odt
+
+# Media / videos / audio (very large)
 *.MTS
 *.mts
 *.mp4
 *.mov
 *.avi
 *.mkv
+*.wmv
 
-# 一般排除
+# Images (in non-code contexts)
+# — 保留 code 目錄裡的 png/jpg,以其他路徑 pattern 直接 rm 掉
+# 若整體不要,取消註解:
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
+
+# Standard
 __pycache__/
 *.py[cod]
 node_modules/
 venv/
 .venv/
+.env
+.env.*
+*.log
 desktop.ini
 Thumbs.db
 .DS_Store
@@ -20,3 +44,4 @@ Thumbs.db
 .claude/
 *.tmp
 *.cache
+*.exe

@@ -1,0 +1,7 @@
+python-dotenv
+flask
+line-bot-sdk
+openai
+edge-tts
+mutagen
+requests

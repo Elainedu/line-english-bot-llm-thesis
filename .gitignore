@@ -1,0 +1,22 @@
+# 大影音檔(不進 git)
+*.MTS
+*.mts
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# 一般排除
+__pycache__/
+*.py[cod]
+node_modules/
+venv/
+.venv/
+desktop.ini
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
+.claude/
+*.tmp
+*.cache

@@ -1,0 +1,26 @@
+2024-12-09 15:13:10,013 - __main__ - INFO - === Starting LINE Bot ===
+2024-12-09 15:13:10,014 - __main__ - INFO - All configurations validated successfully
+2024-12-09 15:13:10,024 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://163.18.42.181:5000
+2024-12-09 15:13:10,025 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-09 15:14:38,879 - __main__ - INFO - Received webhook: {"destination":"Uc99a1840205606673713b2c5af79a1b9","events":[{"type":"message","message":{"type":"te...
+2024-12-09 15:14:38,893 - werkzeug - INFO - 127.0.0.1 - - [09/Dec/2024 15:14:38] "POST /callback HTTP/1.1" 200 -
+2024-12-09 15:14:52,700 - __main__ - INFO - Received webhook: {"destination":"Uc99a1840205606673713b2c5af79a1b9","events":[{"type":"message","message":{"type":"te...
+2024-12-09 15:14:52,702 - werkzeug - INFO - 127.0.0.1 - - [09/Dec/2024 15:14:52] "POST /callback HTTP/1.1" 200 -
+2024-12-09 15:15:31,035 - __main__ - INFO - Received webhook: {"destination":"Uc99a1840205606673713b2c5af79a1b9","events":[{"type":"message","message":{"type":"te...
+2024-12-09 15:15:31,037 - werkzeug - INFO - 127.0.0.1 - - [09/Dec/2024 15:15:31] "POST /callback HTTP/1.1" 200 -
+2024-12-09 15:16:11,108 - __main__ - INFO - === Starting LINE Bot ===
+2024-12-09 15:16:11,108 - __main__ - INFO - All configurations validated successfully
+2024-12-09 15:16:14,542 - __main__ - INFO - Received webhook: {"destination":"Uc99a1840205606673713b2c5af79a1b9","events":[{"type":"message","message":{"type":"te...
+2024-12-09 15:16:14,542 - werkzeug - INFO - 127.0.0.1 - - [09/Dec/2024 15:16:14] "POST /callback HTTP/1.1" 200 -
+2024-12-09 15:16:29,612 - __main__ - INFO - === Starting LINE Bot ===
+2024-12-09 15:16:29,612 - __main__ - INFO - All configurations validated successfully
+2024-12-09 15:16:29,621 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://163.18.42.181:5000
+2024-12-09 15:16:29,621 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-09 15:16:35,815 - __main__ - INFO - Received webhook: {"destination":"Uc99a1840205606673713b2c5af79a1b9","events":[{"type":"message","message":{"type":"te...
+2024-12-09 15:16:35,822 - werkzeug - INFO - 127.0.0.1 - - [09/Dec/2024 15:16:35] "POST /callback HTTP/1.1" 200 -
